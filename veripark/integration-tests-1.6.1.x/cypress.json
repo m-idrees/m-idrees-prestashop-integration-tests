@@ -1,0 +1,13 @@
+{
+    "chromeWebSecurity": false,
+    "retries": {
+        "runMode": 2,
+        "openMode": 2
+    },
+    "env": {
+        "runDiscountsTests": false,
+        "REACT_APP_GOOGLE_CLIENTID": "93344597901-0uln8h57s3fd9jrrbjqkevvpniv84r1d.apps.googleusercontent.com",
+        "REACT_APP_GOOGLE_CLIENT_SECRET" : "93344597901-0uln8h57s3fd9jrrbjqkevvpniv84r1d.apps.googleusercontent.com",
+        "GOOGLE_REFRESH_TOKEN" : "1//04wLkcoEV96xECgYIARAAGAQSNwF-L9IrIbiYPisJTLPVn71V32WYyuE6DmzY-YvGDqQiLIhEjxhszBO4wqVShKZQ-TxnBflh2kk"
+    }
+}
